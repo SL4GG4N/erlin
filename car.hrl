@@ -1,0 +1,1 @@
+-record (car, {brand, model, regplate, color, owner}).
